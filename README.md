@@ -32,11 +32,7 @@ The solution is deployed through a web-based application, allowing users to easi
 
 Input Video ↓ Frame Extraction + Face Cropping ↓ Feature Extraction (CNN) ↓ Temporal Dynamics (LSTM) ↓ Real/Fake Prediction
 
-
----
-
 ## 📊 Project Results
-
 Performance metrics evaluated on the Celeb-DF (v2) dataset:
 
 | Model                  | Accuracy | Precision | Recall | F1-Score |
@@ -48,39 +44,25 @@ Performance metrics evaluated on the Celeb-DF (v2) dataset:
 - ROC Curves and Confusion Matrices available for detailed evaluation
 - Observed challenges: False positives in complex real-world videos
 
----
-
 ## 🛠️ Technologies Used
-
 - **Python 3.8**  
 - **TensorFlow 2.10** + **Keras** (Deep Learning)
 - **OpenCV** + **dlib** (Computer Vision)
 - **Flask** (Web Application Backend)
 - **HTML5, CSS3, JavaScript** (Frontend)
 
----
-
 ## 📈 Reflections and Future Work
-
 - Further improvements planned through larger dataset training and fine-tuning.
 - Integration of real-time detection capabilities.
 - Expansion towards multimodal deepfake detection including voice and audio artifacts.
 - Cloud deployment with scalable API access.
 
----
-
 ## 🤝 Acknowledgements
-
 - Supervisor: Mr. Michael Akintunde (City, University of London)
 - Special thanks to research contributors of [FaceForensics++](https://github.com/ondyari/FaceForensics), [DFDC](https://ai.facebook.com/datasets/dfdc), and [Celeb-DF (v2)](https://github.com/yuezunli/Celeb-DF) datasets.
 
----
-
 ## 📫 Contact
-
 - **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-
+- **Email:** [atulya.abhishek@gmail.com](mailto:your.email@example.com)
 ---
-
 ⭐️ *If you found this project insightful, feel free to star the repository or connect with me on LinkedIn!*
