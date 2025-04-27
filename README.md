@@ -1,7 +1,7 @@
 # Deepfake Detection Using Hybrid CNN-RNN (LSTM) Model
  A deep learning project utilizing a CNN-LSTM model to detect deepfake content with high accuracy. The repository includes a Jupyter Notebook for model implementation and training, along with a responsive website built using HTML/CSS to showcase the results and provide an interactive interface.
+ 
 ## 📖 Introduction
-
 Deepfake technology has rapidly advanced, enabling hyper-realistic video fabrications that pose significant risks to personal, financial, and societal security.  
 This project tackles the deepfake detection challenge by developing a hybrid deep learning model that combines Convolutional Neural Networks (CNNs) for spatial feature extraction and Recurrent Neural Networks (RNNs) with LSTM units for temporal sequence analysis.
 
