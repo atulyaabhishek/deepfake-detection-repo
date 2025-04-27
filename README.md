@@ -62,7 +62,7 @@ Performance metrics evaluated on the Celeb-DF (v2) dataset:
 - Special thanks to research contributors of [FaceForensics++](https://github.com/ondyari/FaceForensics), [DFDC](https://ai.facebook.com/datasets/dfdc), and [Celeb-DF (v2)](https://github.com/yuezunli/Celeb-DF) datasets.
 
 ## 📫 Contact
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [atulya.abhishek@gmail.com](mailto:your.email@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/atulyaabhishek/](#)
+- **Email:** [atulya.abhishek@gmail.com](mailto:atulya.abhishek@gmail.com)
 ---
 ⭐️ *If you found this project insightful, feel free to star the repository or connect with me on LinkedIn!*
