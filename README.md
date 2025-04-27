@@ -68,7 +68,11 @@ Performance metrics evaluated on the Celeb-DF (v2) dataset:
 [Atulya Abhishek's LinkedIn](https://www.linkedin.com/in/atulyaabhishek/)
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/atulyaabhishek/)
 
+<a href="https://www.linkedin.com/in/atulyaabhishek/" target="_blank">Atulya Abhishek's LinkedIn</a>
 
+<a href="https://www.linkedin.com/in/atulyaabhishek/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="30" />
+</a>
 
 ---
 ⭐️ *If you found this project insightful, feel free to star the repository or connect with me on LinkedIn!*
