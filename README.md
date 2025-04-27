@@ -75,3 +75,26 @@ python app.py
 Make sure you have Python 3.8+ installed.
 
 Download the trained model file (model.h5) if not included (link provided separately).
+
+
+
+deepfake-detection/
+│
+├── app.py
+├── model/
+│   ├── model.h5          # Pre-trained CNN-LSTM model
+│   └── model_utils.py    # Prediction functions
+├── static/
+│   ├── css/
+│   ├── js/
+│   └── images/           # Screenshots and evaluation plots
+├── templates/
+│   ├── index.html
+│   ├── upload.html
+│   └── result.html
+├── requirements.txt
+├── README.md
+└── LICENSE
+
+
+
