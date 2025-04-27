@@ -32,9 +32,9 @@ Performance metrics evaluated on the Celeb-DF (v2) dataset:
 
 | Model                  | Accuracy | Precision | Recall | F1-Score |
 |:----------------------:|:--------:|:---------:|:------:|:--------:|
-| ResNet50 + LSTM         | 56.6%      | 51.80%       | 84.6%    | 64.2%      |
-| EfficientNetV2B0 + LSTM | 50.1%      | 49.1%       | 50.5%    | 49.7%      |
-| Xception + LSTM         | 79.5%      | 70.6%       | 91.6%    | 79.8%      |
+| Xception + LSTM         | 79.5% | 70.6% | 91.6% | 79.8% |
+| ResNet50 + LSTM | 56.6% | 51.80% | 84.6% | 64.2% |
+| EfficientNetV2B0 + LSTM | 50.1% | 49.1% | 50.5% | 49.7% |
 
 - ROC Curves and Confusion Matrices available for detailed evaluation
 - Observed challenges: False positives in complex real-world videos
