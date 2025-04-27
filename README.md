@@ -1,12 +1,7 @@
 # Deepfake Detection Using Hybrid CNN-RNN (LSTM) Model
- A deep learning project utilizing a CNN-LSTM model to detect deepfake content with high accuracy. The repository includes a Jupyter Notebook for model implementation and training, along with a responsive website built using HTML/CSS to showcase the results and provide an interactive interface.
- 
-## 📖 Introduction
 Deepfake technology has rapidly advanced, enabling hyper-realistic video fabrications that pose significant risks to personal, financial, and societal security.  
-
 This project tackles the deepfake detection challenge by developing a hybrid deep learning model that combines Convolutional Neural Networks (CNNs) for spatial feature extraction and Recurrent Neural Networks (RNNs) with LSTM units for temporal sequence analysis.
-
-The solution is deployed through a web-based application, allowing users to easily upload videos and determine authenticity with an achieved detection accuracy of **51%** on real-world benchmark datasets.
+The solution is deployed through a web-based application, allowing users to easily upload videos and determine authenticity with high accuracy on real-world benchmark datasets.
 
 ## 🏗️ Project Overview
 - **Problem Addressed:** Detection of manipulated videos (deepfakes) by analyzing both frame-level artifacts and temporal inconsistencies.
@@ -37,9 +32,9 @@ Performance metrics evaluated on the Celeb-DF (v2) dataset:
 
 | Model                  | Accuracy | Precision | Recall | F1-Score |
 |:----------------------:|:--------:|:---------:|:------:|:--------:|
-| ResNet50 + LSTM         | 49%      | 50%       | 47%    | 48%      |
-| EfficientNetV2B0 + LSTM | 50%      | 52%       | 48%    | 49%      |
-| Xception + LSTM         | 51%      | 53%       | 49%    | 51%      |
+| ResNet50 + LSTM         | 56.6%      | 51.80%       | 84.6%    | 64.2%      |
+| EfficientNetV2B0 + LSTM | 50.1%      | 49.1%       | 50.5%    | 49.7%      |
+| Xception + LSTM         | 79.5%      | 70.6%       | 91.6%    | 79.8%      |
 
 - ROC Curves and Confusion Matrices available for detailed evaluation
 - Observed challenges: False positives in complex real-world videos
