@@ -64,5 +64,11 @@ Performance metrics evaluated on the Celeb-DF (v2) dataset:
 ## 📫 Contact
 - **LinkedIn:** [https://www.linkedin.com/in/atulyaabhishek/](#)
 - **Email:** [atulya.abhishek@gmail.com](mailto:atulya.abhishek@gmail.com)
+
+[Atulya Abhishek's LinkedIn](https://www.linkedin.com/in/atulyaabhishek/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/atulyaabhishek/)
+
+
+
 ---
 ⭐️ *If you found this project insightful, feel free to star the repository or connect with me on LinkedIn!*
